@@ -1,3 +1,11 @@
+
+cmake-build-debug
+# sfml installed from brew
+# $PROJECT_ROOT/ExternalLibraries/SFML/include
+ExternalLibraries
+
+.DS_Store
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles

@@ -1,0 +1,1 @@
+# sfml-minimal-cmakelists
